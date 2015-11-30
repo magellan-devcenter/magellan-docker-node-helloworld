@@ -1,0 +1,1 @@
+FROM magellan/node:onbuild
